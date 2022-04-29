@@ -1,0 +1,21 @@
+/* .container-fluid { display: grid; grid-template-columns: 400px 1fr; } */
+
+/* 
+.bot-data { list-style: none; margin: 0; padding: 0; }
+.bot-data li { display: grid; grid-template-columns: 200px auto; padding: .1rem .5rem; }
+.bot-data li:hover { background: rgba(0,0,0,.14); }
+.bot-data li.separator { border-bottom: 1px solid rgba(255,255,255,.2); }
+.bot-data li strong { color: white; }
+.bot-data li span {  }
+
+.bot-data .bot-info-text span		{  }
+.bot-data .start-balance-text span	{ color: var(--bot-blue); }
+.bot-data .current-value-text span	{ color: var(--bot-orange); }
+.bot-data .total-profit-text span	{ color: var(--bot-green); }
+.bot-data .profit-stats-text span	{ color: var(--bot-yellow); }
+.bot-data .configuration-text span	{  }
+
+.tdbitcoin,
+.text-warning { color: var(--bot-yellow) !important; }
+.text-primary { color: var(--bot-orange) !important; }
+.text-success { color: var(--bot-blue) !important; } */

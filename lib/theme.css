@@ -1,0 +1,67 @@
+
+/*
+//===============================================
+//                                               
+//  ######  ##   ##  #####  ###    ###  #####  
+//    ##    ##   ##  ##     ## #  # ##  ##     
+//    ##    #######  #####  ##  ##  ##  #####  
+//    ##    ##   ##  ##     ##      ##  ##     
+//    ##    ##   ##  #####  ##      ##  #####  
+//                                               
+//===============================================
+*/
+
+
+/* Material Design Components */
+/* 
+@import "https://unpkg.com/material-components-web@0.34.1/dist/material-components-web.min.css"; */
+
+/* Fonts + Icons */
+/* 
+@import "https://fonts.googleapis.com/css?family=Roboto+Mono:100,300,400,500,700,900";
+@import "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons"; */
+
+/* Oneezy CSS */
+/* @import "https://rawgit.com/oneezy/oneezy-css/master/oneezy-css.css"; */
+
+
+:root {
+    
+    /* UNIVERSAL 
+    ****************************************************************************/
+    
+    /* Colors */
+    --bot-darkgray: #14181b;
+    --bot-gray: #36404a;
+    --bot-blue: #33daff;
+    --bot-green: #00e676;
+    --bot-yellow: #efff48;
+    --bot-orange: #ffb129;
+    --bot-red: #ff23c0;
+    
+    
+    /* Colors */
+    --darkgray: #14181b;
+    --gray: #36404a;
+    --blue: #33daff;
+    --green: #00e676;
+    --yellow: #efff48;
+    --orange: #ffb129;
+    --red: #ff23c0;
+
+
+    /* Gradients */
+    --gradient-blue--lite: #2df6ff;
+    --gradient-blue--dark: #289dff;
+
+    --gradient-green--lite: #eeff41;
+    --gradient-green--dark: #00e676;
+
+    --gradient-yellow--lite: #eeff41;
+    --gradient-yellow--dark: #fecf6f;
+
+    --gradient-red--lite: #fecf6f;
+    --gradient-red--dark: #ff27c3;
+    
+}
